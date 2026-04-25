@@ -1,0 +1,5 @@
+{
+  "name": "E-com Scraper SaaS Prototype",
+  "description": "SaaS dashboard frontend for scraping e-commerce independent sites like Shopify, Shopline, etc.",
+  "requestFramePermissions": []
+}
